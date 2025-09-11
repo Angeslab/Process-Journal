@@ -11,12 +11,43 @@ Activities Completed
 
 ![Sketch of Bracelet Concept](images/sketch.png)
 
-Reflections: I was inspired by the idea of mood jewellery and combining emotional states through visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection[...]
+Reflections: I was inspired by the idea of mood jewellery and combining emotional states through visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and 
 
 ## Week 7
+Focus: Refining the bracelet’s functionality and begin planning the technical implementation.
 
+Two bracelet modes: Calm and stressed
+
+Mood Detection Mode – automatic mood logging based on heart rate
+
+Spike Logging Mode – detects and stores heart rate spikes
+
+Reflection Mode – end-of-day summary via logo touch
+
+
+Selected micro:bit V2 as the controller for its built-in sensors and MakeCode compatibility.
+
+Chose pulse sensor for BPM tracking and NeoPixels for visual feedback.
+
+
+Explored wearable assembly options using conductive thread and soft materials.
+
+Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. 
 
 ## Week 8
+Focus: Coding the core code for heart rate monitoring, spike detection, and mood logging.
+
+Goals completed this week:
+
+- Developed JavaScript code in Microsoft MakeCode to simulate BPM readings.
+
+- Created conditional logic to log “Stressed” or “Calm” based on BPM thresholds.
+
+- Designed LED feedback icons for each mood state.
+
+
+Reflections: The rolling average method worked well for detecting spikes. I added a 15% threshold to trigger “Stressed” mood. Timestamping events will be useful for future journaling features. I also realized the importance of visual clarity—LED icons need to be intuitive and emotionally resonant.
+
 
 ### A third-level heading
 
