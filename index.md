@@ -1,4 +1,5 @@
 # Process Journal - Angelique
+This process journal documents the iterative development of my wearable prototype, the Mood + Heart Insight Bracelet. The project explores how responsive technology can support emotional awareness by translating physiological signals—specifically heart rate—into intuitive mood feedback. Across Weeks 6 to 8, I applied iterative design principles by continuously refining the concept, logic, and user experience based on research, testing, and reflection. Each stage involved purposeful adjustments: from shifting away from manual mood input to implementing automated detection using rolling averages, to refining LED feedback for emotional clarity. The journal captures not just what I built, but how and why I evolved each decision—balancing technical feasibility, emotional intelligence, and user empathy throughout the design process.
 ## Week 6
 Focus: Exploring the concept of responsive technology and brainstorm ideas for a wearable prototype.
 
