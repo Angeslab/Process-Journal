@@ -37,7 +37,9 @@ JAVA BLOCK IN MAKECODE:
 ![Java blocks](images/Java-blocks.png) 
 
 JAVA CODE IN MAKECODE:
-![Java code](images/Java-code.png)
+<p align="center" style="text-align: center;">
+  <img src="images/Java-code.png" alt="Java code" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
 
 Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. 
 
@@ -56,5 +58,44 @@ Goals completed this week:
 Reflections: The rolling average method worked well for detecting spikes. I added a 15% threshold to trigger “Stressed” mood. Timestamping events will be useful for future journaling features. I also realized the importance of visual clarity—LED icons need to be intuitive and emotionally resonant.
 
 
-### A third-level heading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SKETCH OF THE MOOD BRACELET:
+
+<p align="center" style="text-align: center;">
+  <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
+
+
+JAVA BLOCK IN MAKECODE:
+
+<p align="center" style="text-align: center;">
+  <img src="images/Java-blocks.png" alt="Java blocks" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
+
+JAVA CODE IN MAKECODE:
+
+
 
