@@ -60,6 +60,10 @@ Goals completed this week:
 
 - Designed LED feedback icons for each mood state.
 
+POWERPOINT PRESENTATION CREATED IN CANVAS:
+<p align="center" style="text-align: center;">
+  <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
 
 Reflections: The rolling average method worked well for detecting spikes. I added a 15% threshold to trigger “Stressed” mood. Timestamping events will be useful for future journaling features. I also realized the importance of visual clarity—LED icons need to be intuitive and emotionally resonant.
 
