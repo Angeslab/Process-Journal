@@ -10,6 +10,7 @@ Activities Completed
 - Identified potential use cases: emotional regulation, stress tracking.
 - Began researching micro:bit capabilities.
 
+SKETCH OF THE MOOD BRACELET:
 ![Sketch of Bracelet Concept](images/sketch.png)
 
 Reflections: I was inspired by the idea of mood jewellery and combining emotional states through visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and 
@@ -32,8 +33,10 @@ Chose pulse sensor for BPM tracking and NeoPixels for visual feedback.
 
 Explored wearable assembly options using conductive thread and soft materials.
 
+JAVA BLOCK IN MAKECODE:
 ![Java blocks](images/Java-blocks.png) 
 
+JAVA CODE IN MAKECODE:
 ![Java code](images/Java-code.png)
 
 Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. 
