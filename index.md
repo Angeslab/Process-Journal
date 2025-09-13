@@ -30,8 +30,10 @@ Selected micro:bit V2 as the controller for its built-in sensors and MakeCode co
 
 Chose pulse sensor for BPM tracking and NeoPixels for visual feedback.
 
-
 Explored wearable assembly options using conductive thread and soft materials.
+
+![Java blocks](images/Java blocks.png)
+![Java code](images/Java code.png)
 
 Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. 
 
