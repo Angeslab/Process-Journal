@@ -11,7 +11,10 @@ Activities Completed
 - Began researching micro:bit capabilities.
 
 SKETCH OF THE MOOD BRACELET:
-![Sketch of Bracelet Concept](images/sketch.png)
+<p align="center" style="text-align: center;">
+  <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
+
 
 Reflections: I was inspired by the idea of mood jewellery and combining emotional states through visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and 
 
@@ -34,7 +37,10 @@ Chose pulse sensor for BPM tracking and NeoPixels for visual feedback.
 Explored wearable assembly options using conductive thread and soft materials.
 
 JAVA BLOCK IN MAKECODE:
-![Java blocks](images/Java-blocks.png) 
+<p align="center" style="text-align: center;">
+  <img src="images/Java-blocks.png" alt="Java blocks" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
+
 
 JAVA CODE IN MAKECODE:
 <p align="center" style="text-align: center;">
@@ -82,20 +88,7 @@ Reflections: The rolling average method worked well for detecting spikes. I adde
 
 
 
-SKETCH OF THE MOOD BRACELET:
 
-<p align="center" style="text-align: center;">
-  <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="display: block; margin-left: auto; margin-right: auto;"/>
-</p>
-
-
-JAVA BLOCK IN MAKECODE:
-
-<p align="center" style="text-align: center;">
-  <img src="images/Java-blocks.png" alt="Java blocks" style="display: block; margin-left: auto; margin-right: auto;"/>
-</p>
-
-JAVA CODE IN MAKECODE:
 
 
 
