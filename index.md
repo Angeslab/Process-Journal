@@ -1,14 +1,19 @@
 # Process Journal - Angelique
-This process journal documents the iterative development of my wearable prototype, the Mood + Heart Insight Bracelet. The project explores how responsive technology can support emotional awareness by translating physiological signals—specifically heart rate—into intuitive mood feedback. Across Weeks 6 to 8, I applied iterative design principles by continuously refining the concept, logic, and user experience based on research, testing, and reflection. Each stage involved purposeful adjustments: from shifting away from manual mood input to implementing automated detection using rolling averages, to refining LED feedback for emotional clarity. The journal captures not just what I built, but how and why I evolved each decision—balancing technical feasibility, emotional intelligence, and user empathy throughout the design process.
+This process journal documents the iterative development of a wearable prototype for Task 2 and Task 3. The idea for the project created with in cooperation with my group for these tasks is the 'Mood Bracelet'. The project explores how responsive technology can support emotional awareness by translating physiological signals, specifically heart rate, into intuitive mood feedback. Across Weeks 6 to 8, I applied iterative design principles by continuously refining the concept, logic, research and reflection. Each stage involved purposeful improvements and adjustments: from shifting away from manual mood input to implementing automated detection using rolling averages for heart rate, to refining LED feedback for emotional clarity. 
+
 ## Week 6
 Focus: Exploring the concept of responsive technology and brainstorm ideas for a wearable prototype.
 
 Activities Completed
 - Reviewed course materials and examples of context-aware and wearable technologies.
 - Brainstormed initial ideas for a bracelet that responds to emotional states.
-- Sketched early concepts combining mood input and physiological sensing.
+- Researched similar projects
+- Sketched a prototype design.
 - Identified potential use cases: emotional regulation, stress tracking.
 - Began researching micro:bit capabilities.
+- Developed JavaScript code in Microsoft MakeCode to simulate BPM readings.
+- Created conditional logic to log “Stressed” or “Calm” based on BPM thresholds.
+- Designed LED feedback icons for each mood state.
 
 SKETCH OF THE MOOD BRACELET:
 <p align="center" style="text-align: center;">
@@ -16,25 +21,24 @@ SKETCH OF THE MOOD BRACELET:
 </p>
 
 
-Reflections: I was inspired by the idea of mood jewellery and combining emotional states through visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and 
+Reflections: I was inspired by the idea of mood jewellery and combining emotional states through visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and Sandikshya. We all agreed on the idea and the direction of the project from the combination of our own individual research into the topic.
+
 
 ## Week 7
-Focus: Refining the bracelet’s functionality and begin planning the technical implementation.
+Focus: Refining the bracelet’s functionality and begin planning the technical implementation. As well as, coding the core code for heart rate monitoring, spike detection, and mood logging.
 
-Two bracelet modes: Calm and stressed
+Two bracelet modes: Calm represented as the colour blue and stressed represented as the colour red.
 
-Mood Detection Mode – automatic mood logging based on heart rate
+Mood Detection Mode – Automatic mood logging based on heart rate the could be detecting heart rate every 10-15 seconds.
 
-Spike Logging Mode – detects and stores heart rate spikes
+Spike Logging Mode – Detects and stores heart rate spikes throughout the day.
 
-Reflection Mode – end-of-day summary via logo touch
-
+Reflection Mode – End-of-day summary showcasing any major heart rate spikes
 
 Selected micro:bit V2 as the controller for its built-in sensors and MakeCode compatibility.
 
-Chose pulse sensor for BPM tracking and NeoPixels for visual feedback.
+Explored wearable assembly options using conductive thread and soft materials/fabrics.
 
-Explored wearable assembly options using conductive thread and soft materials.
 
 JAVA BLOCK IN MAKECODE:
 <p align="center" style="text-align: center;">
@@ -47,10 +51,11 @@ JAVA CODE IN MAKECODE:
   <img src="images/Java-code.png" alt="Java code" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
-Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. 
+Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. I also created code in makecode of both block form and javascript as seen above. I am unsure whether this code works or dos not as I haven't gained access to a micro:bit yet, but the main structure of code is complete and can be worked on if needed during the next step of the prototype making process for Task 3.
+
 
 ## Week 8
-Focus: Coding the core code for heart rate monitoring, spike detection, and mood logging.
+Focus: Start and completion of PowerPoint and Script components
 
 Goals completed this week:
 
