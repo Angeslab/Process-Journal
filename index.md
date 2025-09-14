@@ -27,17 +27,17 @@ Reflections: I was inspired by the idea of mood jewellery and combining emotiona
 ## Week 7
 Focus: Refining the bracelet’s functionality and begin planning the technical implementation. As well as, coding the core code for heart rate monitoring, spike detection, and mood logging.
 
-Two bracelet modes: Calm represented as the colour blue and stressed represented as the colour red.
+- Two bracelet modes: Calm represented as the colour blue and stressed represented as the colour red.
 
-Mood Detection Mode – Automatic mood logging based on heart rate the could be detecting heart rate every 10-15 seconds.
+- Mood Detection Mode – Automatic mood logging based on heart rate the could be detecting heart rate every 10-15 seconds.
 
-Spike Logging Mode – Detects and stores heart rate spikes throughout the day.
+- Spike Logging Mode – Detects and stores heart rate spikes throughout the day.
 
-Reflection Mode – End-of-day summary showcasing any major heart rate spikes
+- Reflection Mode – End-of-day summary showcasing any major heart rate spikes
 
-Selected micro:bit V2 as the controller for its built-in sensors and MakeCode compatibility.
+- Selected micro:bit V2 as the controller for its built-in sensors and MakeCode compatibility.
 
-Explored wearable assembly options using conductive thread and soft materials/fabrics.
+- Explored wearable assembly options using conductive thread and soft materials/fabrics.
 
 
 JAVA BLOCK IN MAKECODE:
@@ -57,21 +57,18 @@ Reflections: Automating mood detection based on BPM changes simplifies the user 
 ## Week 8
 Focus: Start and completion of PowerPoint and Script components
 
-Goals completed this week:
+Activites completed this week and with group members:
 
-- Developed JavaScript code in Microsoft MakeCode to simulate BPM readings.
-
-- Created conditional logic to log “Stressed” or “Calm” based on BPM thresholds.
-
-- Designed LED feedback icons for each mood state.
+- Developed the PowerPoint and completed, checks off all points from the rubric.
+- Created basic script and continuing to work on it such as adding details; in a collaborative workpace.
+- Wrote introduction paragraph for this jorunal.
 
 POWERPOINT PRESENTATION CREATED IN CANVAS:
 <p align="center" style="text-align: center;">
   <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
-Reflections: The rolling average method worked well for detecting spikes. I added a 15% threshold to trigger “Stressed” mood. Timestamping events will be useful for future journaling features. I also realized the importance of visual clarity—LED icons need to be intuitive and emotionally resonant.
-
+Reflections: 
 
 
 
