@@ -63,7 +63,7 @@ Activites completed this week and with group members:
 - Created basic script and continuing to work on it such as adding details; in a collaborative workpace.
 - Wrote introduction paragraph for this jorunal.
 
-POWERPOINT PRESENTATION CREATED IN CANVAS:
+POWERPOINT PRESENTATION CREATED IN CANVA:
 <p align="center" style="text-align: center;">
   <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
