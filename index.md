@@ -91,11 +91,9 @@ Reflections: Bluetooth integration was a foundational step that enabled real-tim
 Focus: This week I explored visual feedback mechanisms using LED lights controlled by the ESP32 to represent emotional states or environmental triggers.
 
 Technical Progress
-Programmed LED light patterns (e.g. soft blue for calm, flashing red for stress).
-
-Tested brightness, color, and responsiveness to simulated input.
-
-Evaluated the feasibility of integrating LEDs into the bracelet design.
+- Programmed LED light patterns (e.g. soft blue for calm, flashing red for stress).
+- Tested brightness, color, and responsiveness to simulated input.
+- Evaluated the feasibility of integrating LEDs into the bracelet design.
 
 Reflections: LEDs provided a simple and intuitive feedback method. However, I noted challenges with visibility in bright environments and power consumption. This experimentation helped clarify the need for a more expressive and integrated display solution.
 
@@ -104,12 +102,10 @@ Reflections: LEDs provided a simple and intuitive feedback method. However, I no
 ## Week 11: Transition to Micro:bit and Emotional Display
 Focus: After evaluating the limitations of the ESP32 for visual output, I transitioned to using the micro:bit for its built-in LED matrix and simplified programming environment.
 
-Technical Progress
-Reprogrammed the prototype using the micro:bit.
-
-Created emotive icons on the LED matrix: a happy face for calm and a sad face for stress.
-
-Mapped emotional states to sensor input thresholds.
+Technical Progress:
+- Reprogrammed the prototype using the micro:bit.
+- Created emotive icons on the LED matrix: a happy face for calm and a sad face for stress.
+- Mapped emotional states to sensor input thresholds.
 
 Reflections: The micro:bit’s built-in display offered a more compact and expressive solution than external LEDs. This shift improved the bracelet’s usability and streamlined the design, making it more suitable for real-world deployment.
 
@@ -118,12 +114,10 @@ Reflections: The micro:bit’s built-in display offered a more compact and expre
 ## Week 12: Pulse Sensor Integration and Design Refinement
 Focus: This week focused on integrating physiological sensing and finalizing the physical layout of the bracelet.
 
-Technical Progress
-Integrated a pulse sensor with the micro:bit and merged it with the existing emotional display code.
-
-Conducted placement tests and determined that the pulse sensor must be positioned under a finger (not on the wrist) for accurate readings.
-
-Adjusted the bracelet design to accommodate this requirement, considering modular or clip-on extensions.
+Technical Progress:
+- Integrated a pulse sensor with the micro:bit and merged it with the existing emotional display code.
+- Conducted placement tests and determined that the pulse sensor must be positioned under a finger (not on the wrist) for accurate readings.
+- Adjusted the bracelet design to accommodate this requirement, considering modular or clip-on extensions.
 
 Reflections: Integrating the pulse sensor brought the project full circle, enabling the bracelet to respond to real-time physiological data. This final integration phase clarified the physical constraints of the design and informed a more ergonomic and accurate layout.
 
