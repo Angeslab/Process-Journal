@@ -97,7 +97,9 @@ Technical Progress
 
 Reflections: LEDs provided a simple and intuitive feedback method. However, I noted challenges with visibility in bright environments and power consumption. This experimentation helped clarify the need for a more expressive and integrated display solution.
 
-
+<p align="center" style="text-align: center;">
+  <img src="images/redlightgreenlight.mov" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
 
 ## Week 11: Transition to Micro:bit and Emotional Display
 Focus: After evaluating the limitations of the ESP32 for visual output, I transitioned to using the micro:bit for its built-in LED matrix and simplified programming environment.
