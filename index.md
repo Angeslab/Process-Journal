@@ -117,7 +117,7 @@ Reflections: The micro:bit’s built-in display offered a more compact and expre
 
 
 ## Week 12: Pulse Sensor Integration and Design Refinement
-Focus: This week focused on integrating physiological sensing and finalizing the physical layout of the bracelet.
+Focus: This week focused on integrating physiological sensing and finalising the physical layout of the bracelet.
 
 Technical Progress:
 - Integrated a pulse sensor with the micro:bit and merged it with the existing emotional display code.
