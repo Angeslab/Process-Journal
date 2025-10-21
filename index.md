@@ -127,7 +127,9 @@ Technical Progress:
 Reflections: Integrating the pulse sensor brought the project full circle, enabling the bracelet to respond to real-time physiological data. This final integration phase clarified the physical constraints of the design and informed a more ergonomic and accurate layout.
 
 
-
+<p align="center" style="text-align: center;">
+  <img src="images/soldering.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
 
 
 
