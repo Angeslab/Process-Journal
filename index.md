@@ -124,7 +124,7 @@ Technical Progress:
 - Conducted placement tests and determined that the pulse sensor must be positioned under a finger (not on the wrist) for accurate readings.
 - Adjusted the bracelet design to accommodate this requirement, considering modular or clip-on extensions.
 
-Reflections: Integrating the pulse sensor brought the project full circle, enabling the bracelet to respond to real-time physiological data. This final integration phase clarified the physical constraints of the design and informed a more ergonomic and accurate layout.
+Reflections: Integrating the pulse sensor brought the project full circle, enabling the bracelet to respond to real-time physiological data. This final integration phase clarified the physical constraints of the design and informed a more user-friendly and accurate layout.
 
 
 <p align="center" style="text-align: center;">
