@@ -80,10 +80,10 @@ Technical Progress:
 - Began testing connectivity and responsiveness of the ESP32 in a wearable context.
 
 Conceptual Development: 
-- Considered how the bracelet could respond to both environmental and physiological data to support staff wellbeing.
+- Considered how the bracelet could respond to both environmental and physiological data to support wellbeing.
 - Reflected on embodied cognition and how physical sensations (e.g. stress, calm) could be translated into wearable feedback.
 
-Reflections: Bluetooth integration was a foundational step that enabled real-time interaction. The theoretical lens of embodied cognition reinforced the importance of designing for both emotional and physical responsiveness in high-stress environments like hospitality.
+Reflections: Bluetooth integration was a foundational step that enabled real-time interaction. The theoretical lens of embodied cognition reinforced the importance of designing for both emotional and physical responsiveness in high-stress environments.
 
 
 
@@ -104,8 +104,9 @@ Reflections: LEDs provided a simple and intuitive feedback method. However, I no
   <img src="images/redlights.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
+
 ## Week 11: Transition to Micro:bit and Emotional Display
-Focus: After evaluating the limitations of the ESP32 for visual output, I transitioned to using the micro:bit for its built-in LED matrix and simplified programming environment.
+Focus: After evaluating the limitations of the ESP32 for visual output, I transitioned to using the micro:bit for its built-in LED lights and simplified programming environment.
 
 Technical Progress:
 - Reprogrammed the prototype using the micro:bit.
