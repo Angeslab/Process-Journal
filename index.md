@@ -146,11 +146,11 @@ Activities Completed
 Reflections: Troubleshooting the sensor connection was a critical step in ensuring reliable data capture. Soldering improved the physical connection, and debugging the code helped restore accurate pulse readings. The idea of using a jewellery chain adds a layer of aesthetic value, making the bracelet more appealing and wearable in public or professional settings. This week balanced technical refinement with design thinking, moving the project closer to a polished prototype.
 
 <p align="center" style="text-align: center;">
-  <img src="images/angle1.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/angle1.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
 <p align="center" style="text-align: center;">
-  <img src="images/angle2.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/angle2.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
 
@@ -173,10 +173,10 @@ Reflections: This week marked the finale of our design and development process. 
 </p>
 
 <p align="center" style="text-align: center;">
-  <img src="images/fire.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/fire.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
 <p align="center" style="text-align: center;">
-  <img src="images/moodbracelet.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/moodbracelet.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
