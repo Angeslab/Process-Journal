@@ -146,7 +146,18 @@ Activities Completed
 Reflections: Troubleshooting the sensor connection was a critical step in ensuring reliable data capture. Soldering improved the physical connection, and debugging the code helped restore accurate pulse readings. The idea of using a jewellery chain adds a layer of aesthetic value, making the bracelet more appealing and wearable in public or professional settings. This week balanced technical refinement with design thinking, moving the project closer to a polished prototype.
 
 
+## Week 14: Final Prototype Assembly and Video Demonstration
+Focus: Completing the final prototype and preparing the video demonstration for Task 3 submission.
 
+Activities Completed
+- Debugged and corrected LED display code to ensure accurate mood representation.
+- Replaced a faulty pulse sensor to restore reliable heart rate detection.
+- Brought in all required equipment and assembled the final wearable prototype.
+- Collaboratively worked on the demonstration video script with group members.
+- Filmed multiple video segments showcasing the bracelet’s functionality and user interaction.
+- Began editing footage for the final demonstration video.
+
+Reflections: This week marked the culmination of our design and development process. Fixing the LED logic and replacing the pulse sensor ensured the prototype functioned as intended. Assembling the final bracelet and filming the demonstration helped us reflect on how far the project had come — from concept to a working, responsive wearable. The video will serve as a clear and engaging showcase of our work and its real-world potential.
 
 
 
