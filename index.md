@@ -153,11 +153,11 @@ Reflections: Troubleshooting the sensor connection was a critical step in ensuri
 
 
 <p align="center" style="text-align: center;">
-  <img src="images/angle1.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/angle1.jpeg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
 <p align="center" style="text-align: center;">
-  <img src="images/angle2.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/angle2.jpeg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
 
