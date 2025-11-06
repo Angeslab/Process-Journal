@@ -231,10 +231,6 @@ SOLDERING:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 ---
 
@@ -267,9 +263,6 @@ SHRINKING:
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 ---
 
