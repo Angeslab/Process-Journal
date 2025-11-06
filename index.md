@@ -2,7 +2,7 @@
 This process journal documents the iterative development of a wearable prototype for Task 2 and Task 3. The idea for the project created in cooperation with my group for these tasks is the 'Mood Bracelet'. The project explores how responsive technology can support emotional awareness by translating physiological signals, specifically heart rate, into intuitive mood feedback. Across Weeks 6 to 8, I applied iterative design principles by continuously refining the concept, logic, research and reflection. Each stage involved purposeful improvements and adjustments: from shifting away from manual mood input to implementing automated detection using rolling averages for heart rate, to refining LED feedback for emotional clarity. 
 
 ## Week 6: Concept Exploration and Initial Design
-Focus: Exploring the concept of responsive technology and brainstorm ideas for a wearable prototype.
+Focus: Exploring the concept of responsive technology and brainstorming ideas for a wearable prototype.
 
 Activities Completed
 - Reviewed course materials and examples of context-aware and wearable technologies.
