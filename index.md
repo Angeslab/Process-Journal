@@ -35,8 +35,7 @@ SKETCH OF THE MOOD BRACELET:
 </p>
 
 
-<br>
-<br>
+
 <br>
 <br>
 <br>
