@@ -172,9 +172,6 @@ LED LIGHTS - GREEN & RED:
 <br>
 <br>
 <br>
-<br>
-
-
 
 ---
 
@@ -230,8 +227,7 @@ SOLDERING:
 <br>
 <br>
 <br>
-
-
+<br>
 ---
 
 ## Week 13: Hardware Debugging and Aesthetic Refinement
@@ -262,7 +258,7 @@ SHRINKING:
 <br>
 <br>
 <br>
-
+<br>
 
 ---
 
