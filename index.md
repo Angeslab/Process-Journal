@@ -223,7 +223,8 @@ SOLDERING:
 <br>
 <br>
 <br>
-
+<br>
+<br>
 ---
 
 ## Week 13: Hardware Debugging and Aesthetic Refinement
@@ -234,8 +235,6 @@ Activities Completed
 - Identified and corrected errors in the code that were affecting sensor readings.
 - Diagnosed potential connection issues with the pulse sensor, possibly due to inconsistent contact or voltage fluctuations.
 - Explored the use of a jewellery-style chain to enhance the bracelet’s visual appeal and wearability.
-
-<br>
 
 Reflections: Troubleshooting the sensor connection was a critical step in ensuring reliable data capture. Soldering improved the physical connection, and debugging the code helped restore accurate pulse readings. The idea of using a jewellery chain adds a layer of aesthetic value, making the bracelet more appealing and wearable in public or professional settings. This week balanced technical refinement with design thinking, moving the project closer to a polished prototype.
 
