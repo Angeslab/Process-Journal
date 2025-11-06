@@ -7,7 +7,7 @@ Focus: Exploring the concept of responsive technology and brainstorming ideas fo
 Activities Completed
 - Reviewed course materials and examples of context and wearable technologies.
 - Brainstormed initial ideas for a bracelet that responds to emotional states.
-- Researched similar projects
+- Researched similar projects.
 - Sketched a prototype design.
 - Identified potential use cases: emotional regulation, stress tracking.
 - Began researching micro:bit capabilities.
