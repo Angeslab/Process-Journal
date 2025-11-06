@@ -5,7 +5,7 @@ This process journal documents the iterative development of a wearable prototype
 Focus: Exploring the concept of responsive technology and brainstorming ideas for a wearable prototype.
 
 Activities Completed
-- Reviewed course materials and examples of context-aware and wearable technologies.
+- Reviewed course materials and examples of context and wearable technologies.
 - Brainstormed initial ideas for a bracelet that responds to emotional states.
 - Researched similar projects
 - Sketched a prototype design.
