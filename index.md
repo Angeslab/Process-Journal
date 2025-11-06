@@ -1,6 +1,8 @@
 # Process Journal - Angelique Haynes (1184477), Group: Jade and Sandikshya,  Project: Mood Bracelet
 This process journal documents the iterative development of a wearable prototype for Task 2 and Task 3. The idea for the project created in cooperation with my group for these tasks is the 'Mood Bracelet'. The project explores how responsive technology can support emotional awareness by translating physiological signals, specifically heart rate, into intuitive mood feedback. Across Weeks 6 to 8, I applied iterative design principles by continuously refining the concept, logic, research and reflection. Each stage involved purposeful improvements and adjustments: from shifting away from manual mood input to implementing automated detection using rolling averages for heart rate, to refining LED feedback for emotional clarity. 
 
+---
+
 ## Week 6: Concept Exploration and Initial Design
 Focus: Exploring the concept of responsive technology and brainstorming ideas for a wearable prototype.
 
@@ -25,6 +27,7 @@ SKETCH OF THE MOOD BRACELET:
 
 Reflections: I was inspired by the idea of mood jewellery and combining emotional states that are visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and Sandikshya. We all agreed on the idea and the direction of the project from the combination of our own individual research into the topic.
 
+---
 
 ## Week 7: Functional Planning and Core Coding
 Focus: Refining the bracelet’s functionality and beginning planning the technical implementation. As well as, coding the core code for heart rate monitoring, spike detection, and mood logging.
@@ -56,6 +59,7 @@ JAVA CODE IN MAKECODE:
 
 Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. I also created code in makecode of both block form and javascript as seen above. I am unsure whether this code works or does not as I haven't gained access to a micro:bit yet, but the main structure of code is complete and can be worked on if needed during the next step of the prototype making process for Task 3.
 
+---
 
 ## Week 8: Presentation Development and Journal Framing
 Focus: Start and completion of PowerPoint and Script components.
@@ -75,6 +79,7 @@ POWERPOINT PRESENTATION CREATED IN CANVA:
 
 Reflections: This week, our group successfully completed the PowerPoint presentation, ensuring it aligned with all rubric requirements for content, clarity, and visual design. We also began drafting the presentation script in a shared workspace, allowing for real-time collaboration and ongoing refinement. The script currently covers key points and is being expanded with transitions and supporting detail. Additionally, I wrote the introduction paragraph for this journal to frame our progress and set the tone for reflective documentation.
 
+---
 
 ## Week 9: Setup and Bluetooth Communication
 Focus: This week focused on initiating the hardware development of the wearable prototype using the ESP32 microcontroller. I also explored theoretical frameworks such as Human-Computer Interaction (HCI) and embodied cognition to inform the design.
@@ -90,7 +95,7 @@ Conceptual Development:
 
 Reflections: Bluetooth integration was a foundational step that enabled real-time interaction. The theoretical lens of embodied cognition reinforced the importance of designing for both emotional and physical responsiveness in high-stress environments.
 
-
+---
 
 ## Week 10: LED Feedback Prototyping with ESP32
 Focus: This week I explored visual feedback mechanisms using LED lights controlled by the ESP32 to represent emotional states or environmental triggers.
@@ -110,6 +115,7 @@ LED LIGHTS - GREEN & RED:
   <img src="images/redlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="225"/>
 </div>
 
+---
 
 ## Week 11: Transition to Micro:bit and Emotional Display
 Focus: After evaluating the limitations of the ESP32 for visual output, I transitioned to using the micro:bit for its built-in LED lights and simplified programming environment.
@@ -121,7 +127,7 @@ Technical Progress:
 
 Reflections: The micro:bit’s built-in display offered a more compact and expressive solution than external LEDs. This shift improved the bracelet’s usability and streamlined the design, making it more suitable for real-world deployment.
 
-
+---
 
 ## Week 12: Pulse Sensor Integration and Design Refinement
 Focus: This week focused on integrating physiological sensing and finalising the physical layout of the bracelet.
@@ -138,9 +144,7 @@ SOLDERING:
   <img src="images/soldering.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
-
-
-
+---
 
 ## Week 13: Hardware Debugging and Aesthetic Refinement
 Focus: This week focused on resolving hardware issues with the pulse sensor and exploring aesthetic enhancements for the wearable design.
@@ -159,9 +163,7 @@ SHRINKING:
   <img src="images/shrink2.png" alt="Shrink 2" style="float: left; margin-right: 12px;" width="225"/>
 </div>
 
-
-
-
+---
 
 ## Week 14: Final Prototype Assembly and Video Demonstration
 Focus: Completing the final prototype and preparing the video demonstration for Task 3 submission.
