@@ -185,8 +185,7 @@ LED LIGHTS - GREEN & RED:
 <br>
 <br>
 <br>
-<br>
-<br>
+
 ---
 
 ## Week 11: Transition to Micro:bit and Emotional Display
@@ -305,20 +304,6 @@ Activities Completed
 Reflections: This week marked the completion of our design and development process. Fixing the LED lights logic and replacing the pulse sensor ensured the prototype functioned as intended. Assembling the final bracelet and filming the demonstration helped us reflect on how far the project had come, from just a concept to a working responsive wearable. The video will serve as a clear and engaging showcase of our work and its real-world potential.
 
 DEBUGGED AND CORRECTED CODE, FINAL SHRINKING & FINAL PROTOTYPE:
-<p>
-  <img src="images/newcode.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
-</p>
-
-FINAL SHRINKING:
-<p>
-  <img src="images/fire.jpg" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
-</p>
-
-FINAL PROTOTYPE:
-<p>
-  <img src="images/moodbracelet.jpg" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
-</p>
-
 
 
 <div>
