@@ -111,6 +111,10 @@ POWERPOINT PRESENTATION CREATED IN CANVA:
 </p>
 
 <br>
+<br>
+<br>
+<br>
+
 
 Reflections: This week, our group successfully completed the PowerPoint presentation, ensuring it aligned with all rubric requirements for content, clarity, and visual design. We also began drafting the presentation script in a shared workspace, allowing for real-time collaboration and ongoing refinement. The script currently covers key points and is being expanded with transitions and supporting detail. Additionally, I wrote the introduction paragraph for this journal to frame our progress and set the tone for reflective documentation.
 
@@ -128,7 +132,6 @@ Conceptual Development:
 - Considered how the bracelet could respond to both environmental and physiological data to support wellbeing.
 - Reflected on embodied cognition and how physical sensations (e.g. stress, calm) could be translated into wearable feedback.
 
-<br>
 
 Reflections: Bluetooth integration was a foundational step that enabled real-time interaction. The theoretical lens of embodied cognition reinforced the importance of designing for both emotional and physical responsiveness in high-stress environments.
 
@@ -142,7 +145,6 @@ Technical Progress
 - Tested brightness, colour, and responsiveness to simulated input.
 - Evaluated the feasibility of integrating LEDs into the bracelet design.
 
-<br>
 
 Reflections: LEDs provided a simple and intuitive feedback method. However, I noted challenges with visibility in bright environments and power consumption. This experimentation helped clarify the need for a more expressive and integrated display solution.
 
@@ -154,6 +156,10 @@ LED LIGHTS - GREEN & RED:
   <img src="images/redlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="225"/>
 </div>
 
+<br>
+<br>
+<br>
+<br>
 ---
 
 ## Week 11: Transition to Micro:bit and Emotional Display
@@ -164,7 +170,6 @@ Technical Progress:
 - Created emotive icons on the LED matrix: a happy face for calm and a sad face for stress.
 - Mapped emotional states to sensor input thresholds.
 
-<br>
 
 Reflections: The micro:bit’s built-in display offered a more compact and expressive solution than external LEDs. This shift improved the bracelet’s usability and streamlined the design, making it more suitable for real-world deployment.
 
@@ -178,7 +183,6 @@ Technical Progress:
 - Conducted placement tests and determined that the pulse sensor must be positioned under a finger (not on the wrist) for accurate readings.
 - Adjusted the bracelet design to accommodate this requirement, considering modular or clip-on extensions.
 
-<br>
 
 Reflections: Integrating the pulse sensor brought the project full circle, enabling the bracelet to respond to real-time physiological data. This final integration phase clarified the physical constraints of the design and informed a more user-friendly and accurate layout.
 
@@ -187,6 +191,9 @@ SOLDERING:
   <img src="images/soldering.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
+<br>
+<br>
+<br>
 ---
 
 ## Week 13: Hardware Debugging and Aesthetic Refinement
@@ -207,7 +214,9 @@ SHRINKING:
   <img src="images/shrink1.png" alt="Shrink 1" style="float: left; margin-right: 12px;" width="225"/>
   <img src="images/shrink2.png" alt="Shrink 2" style="float: left; margin-right: 12px;" width="225"/>
 </div>
-
+<br>
+<br>
+<br>
 ---
 
 ## Week 14: Final Prototype Assembly and Video Demonstration
