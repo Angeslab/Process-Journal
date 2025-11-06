@@ -21,19 +21,19 @@ SKETCH OF THE MOOD BRACELET:
 </p>
 
 
-Reflections: I was inspired by the idea of mood jewellery and combining emotional states through visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and Sandikshya. We all agreed on the idea and the direction of the project from the combination of our own individual research into the topic.
+Reflections: I was inspired by the idea of mood jewellery and combining emotional states that are visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and Sandikshya. We all agreed on the idea and the direction of the project from the combination of our own individual research into the topic.
 
 
 ## Week 7: Functional Planning and Core Coding
-Focus: Refining the bracelet’s functionality and begin planning the technical implementation. As well as, coding the core code for heart rate monitoring, spike detection, and mood logging.
+Focus: Refining the bracelet’s functionality and beginning planning the technical implementation. As well as, coding the core code for heart rate monitoring, spike detection, and mood logging.
 
 - Two bracelet modes: Calm represented as the colour blue and stressed represented as the colour red.
 
-- Mood Detection Mode – Automatic mood logging based on heart rate the could be detecting heart rate every 10-15 seconds.
+- Mood Detection Mode – Automatic mood logging that would be detecting heart rate every 10-15 seconds.
 
 - Spike Logging Mode – Detects and stores heart rate spikes throughout the day.
 
-- Reflection Mode – End-of-day summary showcasing any major heart rate spikes
+- Reflection Mode – End-of-day summary showcasing any major heart rate spikes.
 
 - Selected micro:bit V2 as the controller for its built-in sensors and MakeCode compatibility.
 
@@ -51,17 +51,17 @@ JAVA CODE IN MAKECODE:
   <img src="images/Java-code.png" alt="Java code" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
-Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. I also created code in makecode of both block form and javascript as seen above. I am unsure whether this code works or dos not as I haven't gained access to a micro:bit yet, but the main structure of code is complete and can be worked on if needed during the next step of the prototype making process for Task 3.
+Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. I also created code in makecode of both block form and javascript as seen above. I am unsure whether this code works or does not as I haven't gained access to a micro:bit yet, but the main structure of code is complete and can be worked on if needed during the next step of the prototype making process for Task 3.
 
 
 ## Week 8: Presentation Development and Journal Framing
-Focus: Start and completion of PowerPoint and Script components
+Focus: Start and completion of PowerPoint and Script components.
 
-Activites completed this week and with group members:
+Activites completed this week with group members:
 
 - Developed the PowerPoint and completed, checks off all points from the rubric.
-- Created basic script and continuing to work on it such as adding details; in a collaborative workpace.
-- Wrote introduction paragraph for this jorunal.
+- Created basic script and continuing to work on it such as adding details; in a collaborative workspace.
+- Wrote introduction paragraph for this journal.
 
 POWERPOINT PRESENTATION CREATED IN CANVA:
 <p align="center" style="text-align: center;">
@@ -92,7 +92,7 @@ Focus: This week I explored visual feedback mechanisms using LED lights controll
 
 Technical Progress
 - Programmed LED light patterns (e.g. soft blue for calm, flashing red for stress).
-- Tested brightness, color, and responsiveness to simulated input.
+- Tested brightness, colour, and responsiveness to simulated input.
 - Evaluated the feasibility of integrating LEDs into the bracelet design.
 
 Reflections: LEDs provided a simple and intuitive feedback method. However, I noted challenges with visibility in bright environments and power consumption. This experimentation helped clarify the need for a more expressive and integrated display solution.
@@ -166,7 +166,7 @@ Activities Completed
 - Filmed multiple video clips, showcasing the bracelet’s functionality and user interaction.
 - Began editing footage for the final demonstration video.
 
-Reflections: This week marked the finale of our design and development process. Fixing the LED lights logic and replacing the pulse sensor ensured the prototype functioned as intended. Assembling the final bracelet and filming the demonstration helped us reflect on how far the project had come, from just a concept to a working responsive wearable. The video will serve as a clear and engaging showcase of our work and its real-world potential.
+Reflections: This week marked the completion of our design and development process. Fixing the LED lights logic and replacing the pulse sensor ensured the prototype functioned as intended. Assembling the final bracelet and filming the demonstration helped us reflect on how far the project had come, from just a concept to a working responsive wearable. The video will serve as a clear and engaging showcase of our work and its real-world potential.
 
 <p align="center" style="text-align: center;">
   <img src="images/newcode.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
