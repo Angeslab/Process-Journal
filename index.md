@@ -201,7 +201,7 @@ Reflections: Integrating the pulse sensor brought the project full circle, enabl
 
 SOLDERING:
 <p>
-  <img src="images/soldering.png" alt="LEDs" style="float: left; margin-right: 12px;" width="225"/>
+  <img src="images/soldering.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
 <br>
