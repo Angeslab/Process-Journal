@@ -36,12 +36,12 @@ SKETCH OF THE MOOD BRACELET:
 
 
 <br>
-
+<br>
 
 Reflections: I was inspired by the idea of mood jewellery and combining emotional states that are visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and Sandikshya. We all agreed on the idea and the direction of the project from the combination of our own individual research into the topic.
 
 <br>
-
+<br>
 
 ---
 
