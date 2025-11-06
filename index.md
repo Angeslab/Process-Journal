@@ -201,7 +201,7 @@ Reflections: Integrating the pulse sensor brought the project full circle, enabl
 
 SOLDERING:
 <p>
-  <img src="images/soldering.png" alt="LEDs" style="float: style="float: left; margin-right: 12px;" width="225"/>
+  <img src="images/soldering.png" alt="LEDs" style="float: left; margin-right: 12px;" width="225"/>
 </p>
 
 <br>
@@ -248,6 +248,8 @@ SHRINKING:
   <img src="images/shrink1.png" alt="Shrink 1" style="float: left; margin-right: 12px;" width="225"/>
   <img src="images/shrink2.png" alt="Shrink 2" style="float: left; margin-right: 12px;" width="225"/>
 </div>
+<br>
+<br>
 <br>
 <br>
 <br>
