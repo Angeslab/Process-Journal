@@ -91,12 +91,13 @@ Reflections: Bluetooth integration was a foundational step that enabled real-tim
 Focus: This week I explored visual feedback mechanisms using LED lights controlled by the ESP32 to represent emotional states or environmental triggers.
 
 Technical Progress
-- Programmed LED light patterns (e.g. soft blue for calm, flashing red for stress).
+- Programmed LED light patterns (e.g. soft green for calm, flashing red for stress).
 - Tested brightness, colour, and responsiveness to simulated input.
 - Evaluated the feasibility of integrating LEDs into the bracelet design.
 
 Reflections: LEDs provided a simple and intuitive feedback method. However, I noted challenges with visibility in bright environments and power consumption. This experimentation helped clarify the need for a more expressive and integrated display solution.
 
+LED LIGHTS - GREEN
 <p align="center" style="text-align: center;">
   <img src="images/greenlights.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
