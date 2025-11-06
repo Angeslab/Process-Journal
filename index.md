@@ -34,7 +34,7 @@ SKETCH OF THE MOOD BRACELET:
   <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
-
+<br>
 <br>
 <br>
 
@@ -42,7 +42,7 @@ Reflections: I was inspired by the idea of mood jewellery and combining emotiona
 
 <br>
 <br>
-
+<br>
 ---
 
 ## Week 7: Functional Planning and Core Coding
@@ -68,6 +68,8 @@ JAVA BLOCK IN MAKECODE & JAVA CODE IN MAKECODE:
   <img src="images/Java-code.png" alt="LEDs" style="float: left; margin-right: 12px;" width="225"/>
 </div>
 
+<br>
+<br>
 <br>
 
 Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. I also created code in makecode of both block form and javascript as seen above. I am unsure whether this code works or does not as I haven't gained access to a micro:bit yet, but the main structure of code is complete and can be worked on if needed during the next step of the prototype making process for Task 3.
