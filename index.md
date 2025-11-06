@@ -87,7 +87,7 @@ JAVA BLOCK IN MAKECODE & JAVA CODE IN MAKECODE:
 <br>
 <br>
 <br>
-
+<br>
 
 
 Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. I also created code in makecode of both block form and javascript as seen above. I am unsure whether this code works or does not as I haven't gained access to a micro:bit yet, but the main structure of code is complete and can be worked on if needed during the next step of the prototype making process for Task 3.
@@ -171,6 +171,20 @@ LED LIGHTS - GREEN & RED:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ---
 
 ## Week 11: Transition to Micro:bit and Emotional Display
@@ -216,6 +230,20 @@ SOLDERING:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ---
 
 ## Week 13: Hardware Debugging and Aesthetic Refinement
@@ -236,6 +264,9 @@ SHRINKING:
   <img src="images/shrink1.png" alt="Shrink 1" style="float: left; margin-right: 12px;" width="225"/>
   <img src="images/shrink2.png" alt="Shrink 2" style="float: left; margin-right: 12px;" width="225"/>
 </div>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
