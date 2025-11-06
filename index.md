@@ -41,6 +41,7 @@ Reflections: I was inspired by the idea of mood jewellery and combining emotiona
 
 <br>
 <br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 ---
 
 ## Week 7: Functional Planning and Core Coding
