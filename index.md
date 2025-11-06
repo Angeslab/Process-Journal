@@ -16,9 +16,10 @@ Activities Completed
 - Designed LED feedback icons for each mood state.
 
 SKETCH OF THE MOOD BRACELET:
-<p align="center" style="text-align: center;">
-  <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
+<p>
+  <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="float: left; margin-right: 12px;" width="320"/>
 </p>
+
 
 
 
@@ -42,14 +43,15 @@ Focus: Refining the bracelet’s functionality and beginning planning the techni
 
 
 JAVA BLOCK IN MAKECODE:
-<p align="center" style="text-align: center;">
-  <img src="images/Java-blocks.png" alt="Java blocks" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
+<p>
+  <img src="images/Java-blocks.png" alt="Java blocks" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
 JAVA CODE IN MAKECODE:
-<p align="center" style="text-align: center;">
-  <img src="images/Java-code.png" alt="Java code" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
+<p>
+  <img src="images/Java-code.png" alt="Java code" style="float: left; margin-right: 12px;" width="320"/>
 </p>
+
 
 
 Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. I also created code in makecode of both block form and javascript as seen above. I am unsure whether this code works or does not as I haven't gained access to a micro:bit yet, but the main structure of code is complete and can be worked on if needed during the next step of the prototype making process for Task 3.
@@ -65,9 +67,10 @@ Activites completed this week with group members:
 - Wrote introduction paragraph for this journal.
 
 POWERPOINT PRESENTATION CREATED IN CANVA:
-<p align="center" style="text-align: center;">
-  <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
+<p>
+  <img src="images/powerpoint.png" alt="powerpoint" style="float: left; margin-right: 12px;" width="320"/>
 </p>
+
 
 
 Reflections: This week, our group successfully completed the PowerPoint presentation, ensuring it aligned with all rubric requirements for content, clarity, and visual design. We also began drafting the presentation script in a shared workspace, allowing for real-time collaboration and ongoing refinement. The script currently covers key points and is being expanded with transitions and supporting detail. Additionally, I wrote the introduction paragraph for this journal to frame our progress and set the tone for reflective documentation.
@@ -101,14 +104,15 @@ Reflections: LEDs provided a simple and intuitive feedback method. However, I no
 
 
 LED LIGHTS - GREEN:
-<p align="center" style="text-align: center;">
-  <img src="images/greenlights.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
+<p>
+  <img src="images/greenlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
 LED LIGHTS - RED:
-<p align="center" style="text-align: center;">
-  <img src="images/redlights.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
+<p>
+  <img src="images/redlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
+
 
 
 
@@ -135,9 +139,10 @@ Technical Progress:
 Reflections: Integrating the pulse sensor brought the project full circle, enabling the bracelet to respond to real-time physiological data. This final integration phase clarified the physical constraints of the design and informed a more user-friendly and accurate layout.
 
 SOLDERING:
-<p align="center" style="text-align: center;">
-  <img src="images/soldering.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
+<p>
+  <img src="images/soldering.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
+
 
 
 
@@ -154,10 +159,11 @@ Activities Completed
 Reflections: Troubleshooting the sensor connection was a critical step in ensuring reliable data capture. Soldering improved the physical connection, and debugging the code helped restore accurate pulse readings. The idea of using a jewellery chain adds a layer of aesthetic value, making the bracelet more appealing and wearable in public or professional settings. This week balanced technical refinement with design thinking, moving the project closer to a polished prototype.
 
 SHRINKING:
-<div align="left">
-  <img src="images/shrink1.png" alt="Shrink 1" style="margin-bottom: 12px;" width="225"/>
-  <img src="images/shrink2.png" alt="Shrink 2" style="margin-bottom: 12px;" width="225"/>
+<div>
+  <img src="images/shrink1.png" alt="Shrink 1" style="float: left; margin-right: 12px;" width="225"/>
+  <img src="images/shrink2.png" alt="Shrink 2" style="float: left; margin-right: 12px;" width="225"/>
 </div>
+
 
 
 
@@ -176,19 +182,20 @@ Activities Completed
 Reflections: This week marked the completion of our design and development process. Fixing the LED lights logic and replacing the pulse sensor ensured the prototype functioned as intended. Assembling the final bracelet and filming the demonstration helped us reflect on how far the project had come, from just a concept to a working responsive wearable. The video will serve as a clear and engaging showcase of our work and its real-world potential.
 
 DEBUGGED AND CORRECTED CODE:
-<p align="center" style="text-align: center;">
-  <img src="images/newcode.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
+<p>
+  <img src="images/newcode.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
 FINAL SHRINKING:
-<p align="center" style="text-align: center;">
-  <img src="images/fire.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
+<p>
+  <img src="images/fire.jpg" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
 FINAL PROTOTYPE:
-<p align="center" style="text-align: center;">
-  <img src="images/moodbracelet.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
+<p>
+  <img src="images/moodbracelet.jpg" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
+
 
 
 
