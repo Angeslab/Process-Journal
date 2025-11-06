@@ -34,13 +34,7 @@ SKETCH OF THE MOOD BRACELET:
   <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
