@@ -151,13 +151,13 @@ Activities Completed
 
 Reflections: Troubleshooting the sensor connection was a critical step in ensuring reliable data capture. Soldering improved the physical connection, and debugging the code helped restore accurate pulse readings. The idea of using a jewellery chain adds a layer of aesthetic value, making the bracelet more appealing and wearable in public or professional settings. This week balanced technical refinement with design thinking, moving the project closer to a polished prototype.
 
-
+SHRINKING:
 <p align="center" style="text-align: center;">
-  <img src="images/angle1.jpeg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/shrink1.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
 <p align="center" style="text-align: center;">
-  <img src="images/angle2.jpeg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/shrink2.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
 
@@ -175,14 +175,17 @@ Activities Completed
 
 Reflections: This week marked the completion of our design and development process. Fixing the LED lights logic and replacing the pulse sensor ensured the prototype functioned as intended. Assembling the final bracelet and filming the demonstration helped us reflect on how far the project had come, from just a concept to a working responsive wearable. The video will serve as a clear and engaging showcase of our work and its real-world potential.
 
+DEBUGGED AND CORRECTED CODE:
 <p align="center" style="text-align: center;">
   <img src="images/newcode.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
+FINAL SHRINKING:
 <p align="center" style="text-align: center;">
   <img src="images/fire.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
+FINAL PROTOTYPE:
 <p align="center" style="text-align: center;">
   <img src="images/moodbracelet.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
