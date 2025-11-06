@@ -225,6 +225,7 @@ SOLDERING:
 <br>
 <br>
 <br>
+
 ---
 
 ## Week 13: Hardware Debugging and Aesthetic Refinement
