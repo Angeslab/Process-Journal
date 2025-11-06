@@ -17,8 +17,9 @@ Activities Completed
 
 SKETCH OF THE MOOD BRACELET:
 <p align="center" style="text-align: center;">
-  <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
 </p>
+
 
 
 Reflections: I was inspired by the idea of mood jewellery and combining emotional states that are visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and Sandikshya. We all agreed on the idea and the direction of the project from the combination of our own individual research into the topic.
@@ -42,14 +43,14 @@ Focus: Refining the bracelet’s functionality and beginning planning the techni
 
 JAVA BLOCK IN MAKECODE:
 <p align="center" style="text-align: center;">
-  <img src="images/Java-blocks.png" alt="Java blocks" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/Java-blocks.png" alt="Java blocks" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
 </p>
-
 
 JAVA CODE IN MAKECODE:
 <p align="center" style="text-align: center;">
-  <img src="images/Java-code.png" alt="Java code" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/Java-code.png" alt="Java code" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
 </p>
+
 
 Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. I also created code in makecode of both block form and javascript as seen above. I am unsure whether this code works or does not as I haven't gained access to a micro:bit yet, but the main structure of code is complete and can be worked on if needed during the next step of the prototype making process for Task 3.
 
@@ -65,8 +66,9 @@ Activites completed this week with group members:
 
 POWERPOINT PRESENTATION CREATED IN CANVA:
 <p align="center" style="text-align: center;">
-  <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
 </p>
+
 
 Reflections: This week, our group successfully completed the PowerPoint presentation, ensuring it aligned with all rubric requirements for content, clarity, and visual design. We also began drafting the presentation script in a shared workspace, allowing for real-time collaboration and ongoing refinement. The script currently covers key points and is being expanded with transitions and supporting detail. Additionally, I wrote the introduction paragraph for this journal to frame our progress and set the tone for reflective documentation.
 
@@ -100,15 +102,14 @@ Reflections: LEDs provided a simple and intuitive feedback method. However, I no
 
 LED LIGHTS - GREEN:
 <p align="center" style="text-align: center;">
-  <img src="images/greenlights.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/greenlights.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
 </p>
-
-
 
 LED LIGHTS - RED:
 <p align="center" style="text-align: center;">
-  <img src="images/redlights.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/redlights.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
 </p>
+
 
 
 ## Week 11: Transition to Micro:bit and Emotional Display
@@ -135,8 +136,9 @@ Reflections: Integrating the pulse sensor brought the project full circle, enabl
 
 SOLDERING:
 <p align="center" style="text-align: center;">
-  <img src="images/soldering.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/soldering.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
 </p>
+
 
 
 
@@ -152,13 +154,11 @@ Activities Completed
 Reflections: Troubleshooting the sensor connection was a critical step in ensuring reliable data capture. Soldering improved the physical connection, and debugging the code helped restore accurate pulse readings. The idea of using a jewellery chain adds a layer of aesthetic value, making the bracelet more appealing and wearable in public or professional settings. This week balanced technical refinement with design thinking, moving the project closer to a polished prototype.
 
 SHRINKING:
-<p align="center" style="text-align: center;">
-  <img src="images/shrink1.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
-</p>
+<div align="left">
+  <img src="images/shrink1.png" alt="Shrink 1" style="margin-bottom: 12px;" width="225"/>
+  <img src="images/shrink2.png" alt="Shrink 2" style="margin-bottom: 12px;" width="225"/>
+</div>
 
-<p align="center" style="text-align: center;">
-  <img src="images/shrink2.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
-</p>
 
 
 
@@ -177,16 +177,18 @@ Reflections: This week marked the completion of our design and development proce
 
 DEBUGGED AND CORRECTED CODE:
 <p align="center" style="text-align: center;">
-  <img src="images/newcode.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/newcode.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
 </p>
 
 FINAL SHRINKING:
 <p align="center" style="text-align: center;">
-  <img src="images/fire.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/fire.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
 </p>
 
 FINAL PROTOTYPE:
 <p align="center" style="text-align: center;">
-  <img src="images/moodbracelet.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/moodbracelet.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;" width="320"/>
 </p>
+
+
 
