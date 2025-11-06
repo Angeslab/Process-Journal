@@ -180,6 +180,8 @@ LED LIGHTS - GREEN & RED:
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ---
 
@@ -212,6 +214,7 @@ SOLDERING:
   <img src="images/soldering.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
+<br>
 <br>
 <br>
 <br>
