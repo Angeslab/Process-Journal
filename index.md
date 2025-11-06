@@ -150,8 +150,8 @@ Reflections: LEDs provided a simple and intuitive feedback method. However, I no
 LED LIGHTS - GREEN & RED:
 
 <div>
-  <img src="images/greenlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="225"/>
-  <img src="images/redlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="225"/>
+  <img src="images/greenlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
+  <img src="images/redlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </div>
 
 <br>
@@ -204,8 +204,6 @@ SOLDERING:
   <img src="images/soldering.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
-<br>
-<br>
 <br>
 <br>
 <br>
