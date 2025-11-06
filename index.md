@@ -1,5 +1,5 @@
 # Process Journal - Angelique Haynes (1184477), Group: Jade and Sandikshya,  Project: Mood Bracelet
-This process journal documents the iterative development of a wearable prototype for Task 2 and Task 3. The idea for the project created in cooperation with my group for these tasks is the 'Mood Bracelet'. The project explores how responsive technology can support emotional awareness by translating physiological signals, specifically heart rate, into intuitive mood feedback. Across Weeks 6 to 8, I applied iterative design principles by continuously refining the concept, logic, research and reflection. Each stage involved purposeful improvements and adjustments: from shifting away from manual mood input to implementing automated detection using rolling averages for heart rate, to refining LED feedback for emotional clarity. 
+This process journal documents the iterative development of a wearable prototype for Task 2 and Task 3. The idea for the project created in cooperation with my group for these tasks is the 'Mood Bracelet'. The project explores how responsive technology can support emotional awareness by translating physiological signals, specifically heart rate, into intuitive mood feedback. Across Weeks 6 to 14, I applied iterative design principles by continuously refining the concept, logic, research and reflection. Each stage involved purposeful improvements and adjustments: from shifting away from manual mood input to implementing automated detection using rolling averages for heart rate, to refining LED feedback for emotional clarity. 
 
 ---
 ## Table of Contents
@@ -88,7 +88,7 @@ JAVA BLOCK IN MAKECODE & JAVA CODE IN MAKECODE:
 <br>
 <br>
 <br>
-
+<br>
 
 Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. I also created code in makecode of both block form and javascript as seen above. I am unsure whether this code works or does not as I haven't gained access to a micro:bit yet, but the main structure of code is complete and can be worked on if needed during the next step of the prototype making process for Task 3.
 
@@ -185,6 +185,8 @@ LED LIGHTS - GREEN & RED:
 <br>
 <br>
 <br>
+<br>
+<br>
 ---
 
 ## Week 11: Transition to Micro:bit and Emotional Display
@@ -216,6 +218,11 @@ SOLDERING:
   <img src="images/soldering.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
