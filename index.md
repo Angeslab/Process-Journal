@@ -97,10 +97,15 @@ Technical Progress
 
 Reflections: LEDs provided a simple and intuitive feedback method. However, I noted challenges with visibility in bright environments and power consumption. This experimentation helped clarify the need for a more expressive and integrated display solution.
 
-LED LIGHTS - GREEN
+
+LED LIGHTS - GREEN:
 <p align="center" style="text-align: center;">
   <img src="images/greenlights.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
+
+
+
+LED LIGHTS - RED:
 <p align="center" style="text-align: center;">
   <img src="images/redlights.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
@@ -128,7 +133,7 @@ Technical Progress:
 
 Reflections: Integrating the pulse sensor brought the project full circle, enabling the bracelet to respond to real-time physiological data. This final integration phase clarified the physical constraints of the design and informed a more user-friendly and accurate layout.
 
-
+SOLDERING:
 <p align="center" style="text-align: center;">
   <img src="images/soldering.png" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
@@ -145,6 +150,7 @@ Activities Completed
 - Explored the use of a jewellery-style chain to enhance the bracelet’s visual appeal and wearability.
 
 Reflections: Troubleshooting the sensor connection was a critical step in ensuring reliable data capture. Soldering improved the physical connection, and debugging the code helped restore accurate pulse readings. The idea of using a jewellery chain adds a layer of aesthetic value, making the bracelet more appealing and wearable in public or professional settings. This week balanced technical refinement with design thinking, moving the project closer to a polished prototype.
+
 
 <p align="center" style="text-align: center;">
   <img src="images/angle1.jpg" alt="LEDs" style="display: block; margin-left: auto; margin-right: auto;"/>
