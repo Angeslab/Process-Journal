@@ -53,7 +53,7 @@ SKETCH OF THE MOOD BRACELET:
 
 Reflections: I was inspired by the idea of mood jewellery and combining emotional states that are visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and Sandikshya. We all agreed on the idea and the direction of the project from the combination of our own individual research into the topic.
 
-<br>
+
 
 
 ---
@@ -115,7 +115,7 @@ POWERPOINT PRESENTATION CREATED IN CANVA:
 <br>
 <br>
 <br>
-<br>
+
 
 Reflections: This week, our group successfully completed the PowerPoint presentation, ensuring it aligned with all rubric requirements for content, clarity, and visual design. We also began drafting the presentation script in a shared workspace, allowing for real-time collaboration and ongoing refinement. The script currently covers key points and is being expanded with transitions and supporting detail. Additionally, I wrote the introduction paragraph for this journal to frame our progress and set the tone for reflective documentation.
 
@@ -182,9 +182,7 @@ LED LIGHTS - GREEN & RED:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 ---
 
@@ -248,8 +246,7 @@ SOLDERING:
 <br>
 <br>
 <br>
-<br>
-<br>
+
 ---
 
 ## Week 13: Hardware Debugging and Aesthetic Refinement
@@ -285,8 +282,7 @@ SHRINKING:
 <br>
 <br>
 <br>
-<br>
-<br>
+
 ---
 
 ## Week 14: Final Prototype Assembly and Video Demonstration
@@ -308,7 +304,7 @@ DEBUGGED AND CORRECTED CODE, FINAL SHRINKING & FINAL PROTOTYPE:
 
 <div>
   <img src="images/newcode.png" alt="Shrink 1" style="float: left; margin-right: 12px;" width="225"/>
-  <img src="images/fire.jpg" alt="Shrink 2" style="float: left; margin-right: 12px;" width="225"/>
-    <img src="images/moodbracelet.jpg" alt="Shrink 2" style="float: left; margin-right: 12px;" width="225"/>
+  <img src="images/fire.jpg" alt="Shrink 2" style="float: left; margin-right: 12px;" width="200"/>
+    <img src="images/moodbracelet.jpg" alt="Shrink 2" style="float: left; margin-right: 12px;" width="200"/>
 </div>
 
