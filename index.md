@@ -61,7 +61,7 @@ Focus: Refining the bracelet’s functionality and beginning planning the techni
 - Explored wearable assembly options using conductive thread and soft materials/fabrics.
 
 
-JAVA BLOCK IN MAKECODE:
+JAVA BLOCK IN MAKECODE & JAVA CODE IN MAKECODE:
 <p>
   <img src="images/Java-blocks.png" alt="Java blocks" style="float: left; margin-right: 12px;" width="320"/>
 </p>
@@ -70,6 +70,11 @@ JAVA CODE IN MAKECODE:
 <p>
   <img src="images/Java-code.png" alt="Java code" style="float: left; margin-right: 12px;" width="320"/>
 </p>
+
+<div>
+  <img src="images/Java-blocks.png" alt="LEDs" style="float: left; margin-right: 12px;" width="225"/>
+  <img src="images/Java-code.png" alt="LEDs" style="float: left; margin-right: 12px;" width="225"/>
+</div>
 
 <br>
 
