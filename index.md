@@ -34,7 +34,7 @@ SKETCH OF THE MOOD BRACELET:
   <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
-
+<br>
 
 
 Reflections: I was inspired by the idea of mood jewellery and combining emotional states that are visible and trackable. Most wearables focus on fitness, but I wanted something that supports reflection. This week I also found my group; Jade and Sandikshya. We all agreed on the idea and the direction of the project from the combination of our own individual research into the topic.
@@ -67,7 +67,7 @@ JAVA CODE IN MAKECODE:
   <img src="images/Java-code.png" alt="Java code" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
-
+<br>
 
 Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. I also created code in makecode of both block form and javascript as seen above. I am unsure whether this code works or does not as I haven't gained access to a micro:bit yet, but the main structure of code is complete and can be worked on if needed during the next step of the prototype making process for Task 3.
 
@@ -87,7 +87,7 @@ POWERPOINT PRESENTATION CREATED IN CANVA:
   <img src="images/powerpoint.png" alt="powerpoint" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
-
+<br>
 
 Reflections: This week, our group successfully completed the PowerPoint presentation, ensuring it aligned with all rubric requirements for content, clarity, and visual design. We also began drafting the presentation script in a shared workspace, allowing for real-time collaboration and ongoing refinement. The script currently covers key points and is being expanded with transitions and supporting detail. Additionally, I wrote the introduction paragraph for this journal to frame our progress and set the tone for reflective documentation.
 
@@ -105,6 +105,8 @@ Conceptual Development:
 - Considered how the bracelet could respond to both environmental and physiological data to support wellbeing.
 - Reflected on embodied cognition and how physical sensations (e.g. stress, calm) could be translated into wearable feedback.
 
+<br>
+
 Reflections: Bluetooth integration was a foundational step that enabled real-time interaction. The theoretical lens of embodied cognition reinforced the importance of designing for both emotional and physical responsiveness in high-stress environments.
 
 ---
@@ -116,6 +118,8 @@ Technical Progress
 - Programmed LED light patterns (e.g. soft green for calm, flashing red for stress).
 - Tested brightness, colour, and responsiveness to simulated input.
 - Evaluated the feasibility of integrating LEDs into the bracelet design.
+
+<br>
 
 Reflections: LEDs provided a simple and intuitive feedback method. However, I noted challenges with visibility in bright environments and power consumption. This experimentation helped clarify the need for a more expressive and integrated display solution.
 
@@ -137,6 +141,8 @@ Technical Progress:
 - Created emotive icons on the LED matrix: a happy face for calm and a sad face for stress.
 - Mapped emotional states to sensor input thresholds.
 
+<br>
+
 Reflections: The micro:bit’s built-in display offered a more compact and expressive solution than external LEDs. This shift improved the bracelet’s usability and streamlined the design, making it more suitable for real-world deployment.
 
 ---
@@ -148,6 +154,8 @@ Technical Progress:
 - Integrated a pulse sensor with the micro:bit and merged it with the existing emotional display code.
 - Conducted placement tests and determined that the pulse sensor must be positioned under a finger (not on the wrist) for accurate readings.
 - Adjusted the bracelet design to accommodate this requirement, considering modular or clip-on extensions.
+
+<br>
 
 Reflections: Integrating the pulse sensor brought the project full circle, enabling the bracelet to respond to real-time physiological data. This final integration phase clarified the physical constraints of the design and informed a more user-friendly and accurate layout.
 
@@ -166,6 +174,8 @@ Activities Completed
 - Identified and corrected errors in the code that were affecting sensor readings.
 - Diagnosed potential connection issues with the pulse sensor, possibly due to inconsistent contact or voltage fluctuations.
 - Explored the use of a jewellery-style chain to enhance the bracelet’s visual appeal and wearability.
+
+<br>
 
 Reflections: Troubleshooting the sensor connection was a critical step in ensuring reliable data capture. Soldering improved the physical connection, and debugging the code helped restore accurate pulse readings. The idea of using a jewellery chain adds a layer of aesthetic value, making the bracelet more appealing and wearable in public or professional settings. This week balanced technical refinement with design thinking, moving the project closer to a polished prototype.
 
@@ -187,6 +197,8 @@ Activities Completed
 - Collaboratively worked on the demonstration video script with group members.
 - Filmed multiple video clips, showcasing the bracelet’s functionality and user interaction.
 - Began editing footage for the final demonstration video.
+
+<br>
 
 Reflections: This week marked the completion of our design and development process. Fixing the LED lights logic and replacing the pulse sensor ensured the prototype functioned as intended. Assembling the final bracelet and filming the demonstration helped us reflect on how far the project had come, from just a concept to a working responsive wearable. The video will serve as a clear and engaging showcase of our work and its real-world potential.
 
