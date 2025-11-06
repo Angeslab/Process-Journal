@@ -87,8 +87,7 @@ JAVA BLOCK IN MAKECODE & JAVA CODE IN MAKECODE:
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 
 Reflections: Automating mood detection based on BPM changes simplifies the user experience and makes the bracelet more responsive. I decided to log “Stressed” if BPM exceeds the rolling average by 15%, and “Calm” otherwise. I also created code in makecode of both block form and javascript as seen above. I am unsure whether this code works or does not as I haven't gained access to a micro:bit yet, but the main structure of code is complete and can be worked on if needed during the next step of the prototype making process for Task 3.
@@ -109,6 +108,8 @@ POWERPOINT PRESENTATION CREATED IN CANVA:
   <img src="images/powerpoint.png" alt="powerpoint" style="float: left; margin-right: 12px;" width="320"/>
 </p>
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -159,6 +160,8 @@ LED LIGHTS - GREEN & RED:
 <br>
 <br>
 <br>
+<br>
+<br>
 ---
 
 ## Week 11: Transition to Micro:bit and Emotional Display
@@ -193,6 +196,9 @@ SOLDERING:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 ---
 
 ## Week 13: Hardware Debugging and Aesthetic Refinement
@@ -216,6 +222,9 @@ SHRINKING:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 ---
 
 ## Week 14: Final Prototype Assembly and Video Demonstration
@@ -229,11 +238,10 @@ Activities Completed
 - Filmed multiple video clips, showcasing the bracelet’s functionality and user interaction.
 - Began editing footage for the final demonstration video.
 
-<br>
 
 Reflections: This week marked the completion of our design and development process. Fixing the LED lights logic and replacing the pulse sensor ensured the prototype functioned as intended. Assembling the final bracelet and filming the demonstration helped us reflect on how far the project had come, from just a concept to a working responsive wearable. The video will serve as a clear and engaging showcase of our work and its real-world potential.
 
-DEBUGGED AND CORRECTED CODE:
+DEBUGGED AND CORRECTED CODE, FINAL SHRINKING & FINAL PROTOTYPE:
 <p>
   <img src="images/newcode.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
 </p>
@@ -250,4 +258,9 @@ FINAL PROTOTYPE:
 
 
 
+<div>
+  <img src="images/newcode.png" alt="Shrink 1" style="float: left; margin-right: 12px;" width="225"/>
+  <img src="images/fire.jpg" alt="Shrink 2" style="float: left; margin-right: 12px;" width="225"/>
+    <img src="images/moodbracelet.jpg" alt="Shrink 2" style="float: left; margin-right: 12px;" width="225"/>
+</div>
 
