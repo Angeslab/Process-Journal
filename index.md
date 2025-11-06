@@ -103,17 +103,12 @@ Technical Progress
 Reflections: LEDs provided a simple and intuitive feedback method. However, I noted challenges with visibility in bright environments and power consumption. This experimentation helped clarify the need for a more expressive and integrated display solution.
 
 
-LED LIGHTS - GREEN:
-<p>
-  <img src="images/greenlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
-</p>
+LED LIGHTS - GREEN & RED:
 
-LED LIGHTS - RED:
-<p>
-  <img src="images/redlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
-</p>
-
-
+<div>
+  <img src="images/greenlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="225"/>
+  <img src="images/redlights.png" alt="LEDs" style="float: left; margin-right: 12px;" width="225"/>
+</div>
 
 
 ## Week 11: Transition to Micro:bit and Emotional Display
