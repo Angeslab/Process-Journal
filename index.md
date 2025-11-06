@@ -173,7 +173,7 @@ LED LIGHTS - GREEN & RED:
 <br>
 <br>
 <br>
-<br>
+
 
 
 ---
@@ -204,7 +204,7 @@ Reflections: Integrating the pulse sensor brought the project full circle, enabl
 
 SOLDERING:
 <p>
-  <img src="images/soldering.png" alt="LEDs" style="float: left; margin-right: 12px;" width="320"/>
+  <img src="images/soldering.png" alt="LEDs" style="float: style="float: left; margin-right: 12px;" width="225"/>
 </p>
 
 <br>
@@ -230,7 +230,7 @@ SOLDERING:
 <br>
 <br>
 <br>
-<br>
+
 
 ---
 
@@ -262,7 +262,7 @@ SHRINKING:
 <br>
 <br>
 <br>
-<br>
+
 
 ---
 
